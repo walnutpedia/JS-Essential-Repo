@@ -23,7 +23,7 @@ JS-Essential-Repo
 
 #parallax effect
 
--stellar.js https://github.com/markdalgleish/stellar.js
+- stellar.js https://github.com/markdalgleish/stellar.js
 
 ##Template Tools
 
