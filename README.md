@@ -21,6 +21,10 @@ JS-Essential-Repo
 - echo https://github.com/toddmotto/echo
 
 
+#parallax effect
+
+-stellar.js https://github.com/markdalgleish/stellar.js
+
 ##Template Tools
 
 - doT https://github.com/olado/doT
