@@ -20,8 +20,11 @@ JS-Essential-Repo
 - lazy-load-xt https://github.com/ressio/lazy-load-xt
 - echo https://github.com/toddmotto/echo
 
+##mousewheel event related
 
-#parallax effect
+- jquery-mousewheel https://github.com/brandonaaron/jquery-mousewheel
+
+##parallax effect
 
 - stellar.js https://github.com/markdalgleish/stellar.js
 
