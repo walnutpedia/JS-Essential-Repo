@@ -1,7 +1,6 @@
 JS-Essential-Repo
 =================
 
-
 ##Chart Generator
 
 - Charts https://github.com/nnnick/Chart.js
@@ -20,11 +19,17 @@ JS-Essential-Repo
 - lazy-load-xt https://github.com/ressio/lazy-load-xt
 - echo https://github.com/toddmotto/echo
 
-##mousewheel event related
+
+##Letters/Text Related
+
+- lettering https://github.com/davatron5000/Lettering.js
+- textillate https://github.com/jschr/textillate
+
+##Mousewheel Event Related
 
 - jquery-mousewheel https://github.com/brandonaaron/jquery-mousewheel
 
-##parallax effect
+##Parallax Effect
 
 - stellar.js https://github.com/markdalgleish/stellar.js
 
