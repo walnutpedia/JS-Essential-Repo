@@ -1,6 +1,11 @@
 JS-Essential-Repo
 =================
 
+##Animation
+
+- ScrollMagic https://github.com/janpaepke/ScrollMagic
+
+
 ##Chart Generator
 
 - Charts https://github.com/nnnick/Chart.js
